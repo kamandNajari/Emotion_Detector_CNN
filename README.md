@@ -1,4 +1,4 @@
-# 😊 Emotion Detector CNN
+# 👽 Emotion Detector CNN
 
 A real-time facial emotion recognition app built with a custom Convolutional Neural Network (CNN), trained from scratch on the FER-2013 dataset. Point your webcam at your face and watch it detect your emotion live — complete with a real-time probability chart, emotion-based visual effects, and a fun challenge mode.
 
